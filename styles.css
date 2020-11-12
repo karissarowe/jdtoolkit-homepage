@@ -1,14 +1,17 @@
 body {
 	background-color: #fefefe;
+	background-image: radial-gradient(circle closest-side, green 0%, purple 5%, pink 100%);
 	margin: 1em auto;
 	font-size: 10px;
+	font-weight: bold;
 	padding: 1em;
 	text-align: center;
 	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	
 }
 
 h1 {
-	color: #555555;
+	color: #ffffff;
 	font-size: 3em;
 }
 
@@ -31,3 +34,4 @@ img.logo {
 	max-height: 40em;
 	margin: 2em auto;
 }
+
